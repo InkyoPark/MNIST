@@ -1,0 +1,3 @@
+It is my first neural network data analyse in python system
+thanks for "Tariq Rashid" your "Make Your Own Neural Network"
+, name of book, giving brave for DataAnalyse to me
